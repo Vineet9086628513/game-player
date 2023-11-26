@@ -16,6 +16,7 @@ figure:before {
   z-index: -1;
   inset: 0;
   background: top/cover;
+  background-repeat: no-repeat;
   transform-origin: bottom;
   filter: brightness(0.9);
   transition: 0.5s;
